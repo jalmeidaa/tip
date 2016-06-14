@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories: 
 
-(If the gif does not load, click on the link to view.)
+(If the gif does not load, click on the image to view.)
 
 <img src='http://i.imgur.com/lX5u4Eh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
